@@ -213,5 +213,3 @@ npm run build
 - ESLint Documentation
 
 ---
-
-This project is licensed under the MIT License.
